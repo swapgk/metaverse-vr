@@ -1,12 +1,20 @@
 # Metaverse VR 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f8c4bdf4-56ea-4ff3-9b68-2171294e5feb" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f8c4bdf4-56ea-4ff3-9b68-2171294e5feb" width="400"/></td>
+    <td><img src="https://github.com/swapgk/metaverse-vr/blob/c2ef253e464efa40b5206fedf312dc53db1328dd/demo/screen_sharing.png" width="400"/></td>
+    <td><img src="https://github.com/swapgk/metaverse-vr/blob/c2ef253e464efa40b5206fedf312dc53db1328dd/demo/3d_annotation.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/image3.png" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/image4.png" width="400"/></td>
+    <td>
+      <a href="https://github.com/swapgk/metaverse-vr/raw/main/demo/metaverse-vr-video-1-720p.mp4">
+        <img src="https://github.com/swapgk/metaverse-vr/blob/main/demo/video1-thumbnail.png" width="400"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/swapgk/metaverse-vr/raw/main/demo/metaverse-vr-video-2-720p.mp4">
+        <img src="https://github.com/swapgk/metaverse-vr/blob/main/demo/video2-thumbnail.png" width="400"/>
+      </a>
+    </td>
   </tr>
 </table>
 ## Overview
