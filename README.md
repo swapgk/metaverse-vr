@@ -1,5 +1,6 @@
 # Metaverse VR 
 
+**Click on the images below to view the demo videos.**
 <table>
   <tr>
     <td>
@@ -14,7 +15,6 @@
     </td>
   </tr>
 </table>
----
 
 ## Overview
 
