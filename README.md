@@ -37,24 +37,16 @@ Users can join a shared Virtual Meeting Room with avatars, interact with objects
   Avatars can move freely within the 3D space and interact with virtual objects, such as sitting on chairs or exploring shared spaces.
 
 - 🎥 **Real-Time Video Calling & Screen Broadcasting**  
-  Integrated using the **Agora SDK**, allowing seamless communication and shared content experiences like movie watching.
+  Integrated using the **Agora SDK** for video streaming like movie watching.
 
 - ✏️ **Virtual Drawing Tools**  
-  Enables users to draw within the 3D space, enhancing creative and collaborative interactions.
+  Users can draw within the 3D space in realtime and other users can see and interact with it
 
 ---
 
-## Technologies Used
+## Tools
 
 - **Unity3D** – VR/AR application development  
 - **Agora SDK** – Real-time video calling and screen sharing  
-
----
-
-## Objectives
-
-- Develop an immersive 3D VR application to enhance online collaboration  
-- Enable real-time multi-user interaction with avatars in a shared virtual environment  
-- Integrate real-time communication, screen sharing, and interactive tools to create engaging, remote social experiences  
 
 ---
