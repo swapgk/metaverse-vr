@@ -2,18 +2,14 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/swapgk/metaverse-vr/blob/c2ef253e464efa40b5206fedf312dc53db1328dd/demo/screen_sharing.png" width="400"/></td>
-    <td><img src="https://github.com/swapgk/metaverse-vr/blob/c2ef253e464efa40b5206fedf312dc53db1328dd/demo/3d_annotation.png" width="400"/></td>
-  </tr>
-  <tr>
     <td>
       <a href="https://drive.google.com/file/d/1mWw3g8MLdiP-k2tR2229BdapdN4d7f6j/view?usp=sharing">
-        <img src="https://github.com/swapgk/metaverse-vr/blob/b2ac12692407440eb9e4f26c5b96e99307ff71ce/demo/thumbnail1.png" width="400"/>
+        <img src="https://github.com/swapgk/metaverse-vr/blob/c2ef253e464efa40b5206fedf312dc53db1328dd/demo/screen_sharing.png" width="400"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/swapgk/metaverse-vr/raw/main/demo/metaverse-vr-video-2-720p.mp4">
-        <img src="https://github.com/swapgk/metaverse-vr/blob/main/demo/video2-thumbnail.png" width="400"/>
+        <img src="https://github.com/swapgk/metaverse-vr/blob/c2ef253e464efa40b5206fedf312dc53db1328dd/demo/3d_annotation.png" width="400"/>
       </a>
     </td>
   </tr>
