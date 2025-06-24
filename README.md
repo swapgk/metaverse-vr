@@ -22,7 +22,7 @@
 
 ## Overview
 
-This project is a **3D Virtual Reality (VR) collaboration application**, developed using **Unity3D**, designed to enhance user experience by providing an immersive, interactive virtual environment for real-time collaboration and an engaging, fun way to meet online.
+This project is a **3D Multiplayer Virtual Reality (VR) Space**, developed using **Unity3D**, designed to enhance user experience by providing an immersive, interactive virtual environment for real-time collaboration or jsut a fun way to meet virtually.
 
 Users can join a shared Virtual Meeting Room with avatars, interact with objects, communicate via video calls, and draw collaboratively in the 3D space.
 
@@ -31,7 +31,7 @@ Users can join a shared Virtual Meeting Room with avatars, interact with objects
 ## Features
 
 - 🧑‍🤝‍🧑 **Multi-user Virtual Meeting Room**  
-  Users can join the same virtual environment, represented by avatars.
+  Users can join the same virtual environment, represented by avatars, their movements in teh 3D space syncs to each other in realtime
 
 - 🕹️ **Avatar Movement & Interaction**  
   Avatars can move freely within the 3D space and interact with virtual objects, such as sitting on chairs or exploring shared spaces.
@@ -46,7 +46,8 @@ Users can join a shared Virtual Meeting Room with avatars, interact with objects
 
 ## Tools
 
-- **Unity3D** – VR/AR application development  
-- **Agora SDK** – Real-time video calling and screen sharing  
+- **Unity3D** – For Application development  
+- **Agora SDK** – Real-time video calling and screen sharing features
+- **Photon** - For Multiplayer features
 
 ---
