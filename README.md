@@ -1,4 +1,5 @@
 # Metaverse VR 
+
 <table>
   <tr>
     <td><img src="https://github.com/swapgk/metaverse-vr/blob/c2ef253e464efa40b5206fedf312dc53db1328dd/demo/screen_sharing.png" width="400"/></td>
@@ -17,44 +18,43 @@
     </td>
   </tr>
 </table>
+---
+
 ## Overview
 
-This project is a **3D Virtual Reality (VR) collaboration application**, developed using **Unity3D**, designed to enhance user experience by providing an immersive, interactive virtual environment for real-time collaboration for just a fun way to meet online.
+This project is a **3D Virtual Reality (VR) collaboration application**, developed using **Unity3D**, designed to enhance user experience by providing an immersive, interactive virtual environment for real-time collaboration and an engaging, fun way to meet online.
 
-Users can join a shared Virtual Meeting Room with an avatars, interact with objects, communicate via video calls, and draw in the 3D space
+Users can join a shared Virtual Meeting Room with avatars, interact with objects, communicate via video calls, and draw collaboratively in the 3D space.
 
 ---
 
 ## Features
 
 - 🧑‍🤝‍🧑 **Multi-user Virtual Meeting Room**  
-  Users can join the same virtual environment represented by avatars.
+  Users can join the same virtual environment, represented by avatars.
 
 - 🕹️ **Avatar Movement & Interaction**  
-  Avatars can move freely within the 3D space and interact with virtual objects like sitting on chairs, share screen for movie watching
+  Avatars can move freely within the 3D space and interact with virtual objects, such as sitting on chairs or exploring shared spaces.
 
 - 🎥 **Real-Time Video Calling & Screen Broadcasting**  
-  Integrated using the **Agora SDK**, allowing seamless communication and content sharing.
+  Integrated using the **Agora SDK**, allowing seamless communication and shared content experiences like movie watching.
 
 - ✏️ **Virtual Drawing Tools**  
-  Enables users to draw in the 3D space, enhancing collaborative interactions.
+  Enables users to draw within the 3D space, enhancing creative and collaborative interactions.
 
 ---
 
 ## Technologies Used
 
 - **Unity3D** – VR/AR application development  
-- **Agora SDK** – Real-time screen sharing  
+- **Agora SDK** – Real-time video calling and screen sharing  
 
 ---
 
 ## Objectives
 
-- Develop an immersive 3D VR application to enhance user collaboration  
+- Develop an immersive 3D VR application to enhance online collaboration  
 - Enable real-time multi-user interaction with avatars in a shared virtual environment  
-- Integrate real-time communication and interactive tools to improve remote collaboration  
+- Integrate real-time communication, screen sharing, and interactive tools to create engaging, remote social experiences  
 
 ---
-
-
-
