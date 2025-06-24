@@ -8,7 +8,7 @@
   <tr>
     <td>
       <a href="https://github.com/swapgk/metaverse-vr/raw/main/demo/metaverse-vr-video-1-720p.mp4">
-        <img src="https://github.com/swapgk/metaverse-vr/blob/main/demo/video1-thumbnail.png" width="400"/>
+        <img src="https://github.com/swapgk/metaverse-vr/blob/b2ac12692407440eb9e4f26c5b96e99307ff71ce/demo/thumbnail1.png" width="400"/>
       </a>
     </td>
     <td>
