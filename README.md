@@ -5,12 +5,12 @@
   <tr>
     <td>
       <a href="https://drive.google.com/file/d/1mWw3g8MLdiP-k2tR2229BdapdN4d7f6j/view?usp=sharing">
-        <img src="https://github.com/swapgk/metaverse-vr/blob/c2ef253e464efa40b5206fedf312dc53db1328dd/demo/screen_sharing.png" width="400"/>
+        <img src="https://github.com/swapgk/metaverse-vr/blob/master/demo/screen_sharing.png" width="400"/>
       </a>
     </td>
     <td>
       <a href="https://drive.google.com/file/d/1f_VfbJKoFubgw_ZqF4G57gSHsJs6H17D/view?usp=sharing">
-        <img src="https://github.com/swapgk/metaverse-vr/blob/c2ef253e464efa40b5206fedf312dc53db1328dd/demo/3d_annotation.png" width="400"/>
+        <img src="https://github.com/swapgk/metaverse-vr/blob/master/demo/3d_annotation.png" width="400"/>
       </a>
     </td>
   </tr>
