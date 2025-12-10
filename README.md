@@ -9,7 +9,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/swapgk/metaverse-vr/raw/main/demo/metaverse-vr-video-2-720p.mp4">
+      <a href="https://drive.google.com/file/d/1f_VfbJKoFubgw_ZqF4G57gSHsJs6H17D/view?usp=sharing">
         <img src="https://github.com/swapgk/metaverse-vr/blob/c2ef253e464efa40b5206fedf312dc53db1328dd/demo/3d_annotation.png" width="400"/>
       </a>
     </td>
